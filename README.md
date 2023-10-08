@@ -1,0 +1,1 @@
+# subsquid-single-proc
